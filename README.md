@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andronin420
 - 👀 I’m interested in Microsoft Azure
-- 🌱 I’m currently learning AZ-303 and AZ-304
+- 🌱 Azure Solutions Architect 
 - 📫 tonda.guman@gmail.com
 
 <!---
